@@ -21,6 +21,9 @@ TensorFlow and Keras:  for any machine learning models, such as classification o
 The data for this project primarily comes from publicly available satellite imagery and global forest cover datasets:
 Global Forest Watch: This platform provides global data on deforestation, forest loss, and land-use change. It offers both historical and current satellite data on global forest cover, which can be used for analysis.
 
+<h3>References </h3>
+<a>https://ourworldindata.org/deforestation</a>
+
 NASA Earth Observing System Data and Information System (EOSDIS): Offers access to satellite imagery and environmental data through the Earthdata platform.
 
 Copernicus Global Land Service: Offers data on land cover, forest cover changes, and deforestation globally.
